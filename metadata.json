@@ -1,0 +1,10 @@
+{
+	"author": "swaroopchirayinkil",
+	"email": "",
+	"website": "",
+	"version": "1.0",
+	"releaseDate": "2026-01-09",
+	"license": "MIT",
+	"compatible": "3.0",
+	"notes": "Interactive image plugin with click-based behaviors and animation control"
+}

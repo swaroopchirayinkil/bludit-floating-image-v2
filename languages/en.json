@@ -1,0 +1,21 @@
+{
+    "plugin-data": {
+        "name": "Floating-Image-v2",
+        "description": "Display an interactive image with click behaviors, animation control, and customizable positioning"
+    },
+    "image-url": "Image URL",
+    "image-url-help": "Enter the URL of the image to display (GIF or PNG format)",
+    "redirect-url": "Redirect URL",
+    "redirect-url-help": "URL to redirect visitors when they click the image (opens in new tab)",
+    "image-size": "Image Width (px)",
+    "image-size-help": "Width of the image in pixels (50-500). Height scales automatically.",
+    "position-x": "Horizontal Position (%)",
+    "position-x-help": "Distance from left edge of the screen (0-100 percent)",
+    "position-y": "Vertical Position (%)",
+    "position-y-help": "Distance from top edge of the screen (0-100 percent)",
+    "z-index": "Layer Priority (Z-Index)",
+    "z-index-help": "Stacking order (higher numbers appear on top)",
+    "opacity": "Opacity",
+    "opacity-help": "Image transparency level (0.1 = very transparent, 1.0 = fully opaque)",
+    "config-note": "Configure your interactive image settings below. The image will be static until first click (for GIFs), redirect on single click, and close on triple click."
+}
